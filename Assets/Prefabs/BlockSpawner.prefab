@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9009922341281759857
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6566522421861505271}
+  - component: {fileID: 4390325072138828674}
+  m_Layer: 0
+  m_Name: BlockSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6566522421861505271
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9009922341281759857}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.002, y: -0.083, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4390325072138828674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9009922341281759857}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bef924911c8eb348b0690f36dd02684, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BlockSpawner
+  tetrominos:
+  - {fileID: 4238926473769470402, guid: e8fee0dbd0f42e54ea29d66678d73dce, type: 3}
+  - {fileID: 6182342020638081831, guid: 2e1c4303c4761e8479b14a0551ce8ee1, type: 3}
+  - {fileID: 9115705855895662522, guid: fba35b1e65291364aba3682f205d4903, type: 3}
+  - {fileID: 1496649109970806427, guid: 1d5e1e08dde54e54fb5368c6703e7113, type: 3}
+  - {fileID: 6219088891295875153, guid: 9a31355bf44ded94e987470d1f1acf68, type: 3}
+  - {fileID: 1913293987071586914, guid: 7dfe4855b5118fd448cb6ec78ed8d7fe, type: 3}
+  - {fileID: 5956914728823327409, guid: 10841042250918b4d8337a6e1c341c9e, type: 3}
+  gameOverPanel: {fileID: 0}

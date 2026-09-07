@@ -1,0 +1,138 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity generated files
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Crash reports
+memoryCaptures/
+Recordings/
+
+# Burst debug information
+[Bb]urst[Dd]ebug[Ii]nformation/# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity generated files
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity generated files
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Crash reports
+memoryCaptures/
+Recordings/
+
+# Burst debug information
+[Bb]urst[Dd]ebug[Ii]nformation/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Crash reports
+memoryCaptures/
+Recordings/
+
+# Burst debug information
+[Bb]urst[Dd]ebug[Ii]nformation/
+
+# Unity backup / debug folders
+TetrisGame_BackUpThisFolder_ButDontShipItWithYourGame/
+Tetris_BurstDebugInformation_DoNotShip/
+

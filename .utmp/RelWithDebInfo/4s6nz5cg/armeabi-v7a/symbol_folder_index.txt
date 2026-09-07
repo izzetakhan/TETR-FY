@@ -1,0 +1,1 @@
+C:\Users\HP\Tetris\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4s6nz5cg\obj\armeabi-v7a

@@ -1,0 +1,8 @@
+C:/Users/HP/Tetris/.utmp/RelWithDebInfo/4s6nz5cg/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/Tetris/.utmp/RelWithDebInfo/4s6nz5cg/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Tetris/.utmp/RelWithDebInfo/4s6nz5cg/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/HP/Tetris/.utmp/RelWithDebInfo/4s6nz5cg/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/HP/Tetris/.utmp/RelWithDebInfo/4s6nz5cg/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Tetris/.utmp/RelWithDebInfo/4s6nz5cg/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/HP/Tetris/.utmp/RelWithDebInfo/4s6nz5cg/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/HP/Tetris/.utmp/RelWithDebInfo/4s6nz5cg/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
